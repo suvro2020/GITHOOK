@@ -13,4 +13,4 @@ elif 20<= temperature <30:
     print ("It's cold Weather, wear heavy cloth")
 
 else: 
-    print ("comportable weather")
+    print ("comfortable weather")
